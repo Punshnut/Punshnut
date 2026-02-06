@@ -1,11 +1,15 @@
 Hi, I’m Jan 👋
 
-I enjoy making small things that feel calm and intentional.  
-Mostly for macOS, sometimes just for myself.
+I build small macOS apps with intention -
+tools that feel calm, respectful, and thoughtfully made.
 
-Simplicity, restraint, and quiet tools matter.
+Good software doesn’t demand attention.
+It supports focus, reduces friction, and quietly does its job.
 
-I’m also a freelance filmmaker and photographer, guided by kindness,
-creativity, and inclusion.
+macOS is the platform I work on and build for.
+My goal is to create native-feeling apps that fit naturally into everyday workflows.
+
+Alongside software, I work as a freelance filmmaker and photographer,
+guided by kindness, creativity, and inclusion.
 
 📍 Islas Canarias / Ireland
