@@ -17,5 +17,3 @@ Alongside software, I work as a freelance filmmaker and photographer - guided by
 **Clarity over noise.<br />**
 **Depth over hype.<br />**
 **Intention over volume.<br />**
-
-📍 Islas Canarias / Ireland
